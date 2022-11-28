@@ -16,6 +16,7 @@ const useStyles = makeStyles(() => ({
     height: "230px",
     width: "170px",
     margin: "20px 60px 20px 0px",
+    borderRadius:'20px'
   },
 
   title1: {
