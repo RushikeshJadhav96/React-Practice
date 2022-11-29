@@ -9,12 +9,13 @@ const useStyles = makeStyles(() => ({
   //   height: "2em",
   // },
   img: {
-    height: "24px",
-    width: "24px",
-    borderRadius: "100px",
-    boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2)",
-    padding: "5px",
-    background: "#F7F7F7",
+    height: "20px",
+    width: "20px",
+    // borderRadius: "100px",
+    // boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2)",
+    // padding: "5px",
+    // background: "#F7F7F7",
+    color:'#F7F7F7'
   },
   display:
   {
