@@ -29,6 +29,7 @@ const useStyles = makeStyles(() => ({
     color:'#b4b4b4',
     marginLeft:'20px',
     fontFamily:'sans-serif',
+    fontSize:'20px',
   }
 }));
 

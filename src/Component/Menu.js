@@ -25,11 +25,11 @@ function Menu() {
   const classes = useStyles();
 
   const menuList = [
-    { icon: DescriptionOutlinedIcon, name: "Classroom" },
-    { icon: HomeOutlinedIcon, name: "Homework" },
+    { icon: DescriptionOutlinedIcon, name: "Home" },
+    { icon: HomeOutlinedIcon, name: "Favourites" },
     { icon: HeadphonesOutlinedIcon, name: "Audio books" },
     { icon: LibraryBooksOutlinedIcon, name: "My Library" },
-    { icon: profile, name: "Classmate" },
+    { icon: profile, name: "Setting" },
   ];
   return (
     <div>
